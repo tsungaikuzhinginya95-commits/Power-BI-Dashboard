@@ -1,5 +1,5 @@
 # Power-BI-Dashboard
-<p align="justify">
+
 Credit Card Fraud Detection Dashboard using Power BI
 Credit Card Fraud Analysis Report 
 
@@ -121,4 +121,4 @@ financial institutions can significantly reduce fraud exposure while improving c
 confidence and operational efficiency. This project illustrates the value of data analytics in 
 supporting strategic decision-making and strengthening fraud prevention in the financial 
 services industry.
-</p>
+
