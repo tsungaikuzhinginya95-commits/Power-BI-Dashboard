@@ -3,7 +3,7 @@
 Credit Card Fraud Detection Dashboard using Power BI
 Credit Card Fraud Analysis Report 
 
-Introduction </n>
+Introduction 
 Credit card fraud remains one of the most significant challenges facing financial institutions 
 due to the increasing volume of digital transactions and the growing sophistication of 
 cybercriminals. Fraudulent activities not only result in financial losses but also reduce customer 
@@ -11,11 +11,11 @@ trust and increase operational costs for banks and payment service providers. Da
 has become an essential tool in identifying fraud patterns, assessing risks, and supporting 
 informed decision-making. 
 
-Dashboard Overview </n>
+Dashboard Overview 
 The dashboard summarizes credit card transaction activity through several Key Performance 
 Indicators (KPIs) and interactive charts. 
 
-The dashboard reports: </n>
+The dashboard reports: 
 • Total Transactions: 20,000  
 • Fraud Rate: 2%  
 • Total Fraud Value: 61.44K  
@@ -79,7 +79,7 @@ fraudsters may exploit periods when customers are less active or when monitoring
 are reduced. Increasing fraud surveillance during these high-risk hours can improve fraud 
 detection and reduce financial losses. 
 
-Business Insights </n>
+Business Insights 
 • First, although fraudulent transactions account for only a small percentage of all 
 transactions, they involve significantly higher transaction values than legitimate 
 purchases. This increases the financial impact of fraud despite its relatively low 
@@ -92,7 +92,7 @@ international payment activity should receive additional monitoring.
 financial institutions to adopt advanced technologies capable of detecting sophisticated 
 fraud techniques.
 
-Recommendations </n>
+Recommendations 
 Based on the analysis, the following recommendations are proposed: 
 • Implement mandatory Multi-Factor Authentication (MFA) for high-value and high-risk 
 transactions.  
@@ -109,7 +109,7 @@ assisted scams.
 • Continuously review fraud trends by card type, authentication method, and transaction 
 channel to improve fraud prevention strategies.  
 
-Conclusion </n>
+Conclusion 
 The Credit Card Fraud Analysis Dashboard demonstrates how business intelligence tools such 
 as Microsoft Power BI can transform transactional data into actionable insights. Despite an 
 overall fraud rate of only 2%, fraudulent transactions result in substantial financial losses due 
