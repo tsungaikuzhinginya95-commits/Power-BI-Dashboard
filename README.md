@@ -1,9 +1,11 @@
 # Power-BI-Dashboard
 
 Credit Card Fraud Detection Dashboard using Power BI
+
 Credit Card Fraud Analysis Report 
 
 Introduction 
+
 Credit card fraud remains one of the most significant challenges facing financial institutions 
 due to the increasing volume of digital transactions and the growing sophistication of 
 cybercriminals. Fraudulent activities not only result in financial losses but also reduce customer 
@@ -12,10 +14,12 @@ has become an essential tool in identifying fraud patterns, assessing risks, and
 informed decision-making. 
 
 Dashboard Overview 
+
 The dashboard summarizes credit card transaction activity through several Key Performance 
 Indicators (KPIs) and interactive charts. 
 
 The dashboard reports: 
+
 • Total Transactions: 20,000  
 • Fraud Rate: 2%  
 • Total Fraud Value: 61.44K  
@@ -27,7 +31,9 @@ fraud rate is relatively low at approximately 2%, fraudulent transactions repres
 financial losses because they involve higher transaction values than legitimate purchases. 
 
 Analysis and Findings 
+
 1.Fraud Rate by Card Type 
+
 The dashboard compares fraud rates among different card providers, including Amex, 
 Discover, Visa, Mastercard, and RuPay. The analysis shows that Amex has the highest fraud 
 rate, followed closely by Discover and Visa, while RuPay records the lowest fraud rate. 
@@ -37,6 +43,7 @@ financial institutions should strengthen fraud monitoring for higher-risk card c
 maintaining robust security measures across all card types. 
 
 2.Fraud Rate by Authentication Method 
+
 Authentication methods play a critical role in reducing fraud. The dashboard indicates that 
 transactions completed without authentication have the highest fraud rate. Fraud levels 
 decrease considerably when security mechanisms such as One-Time Passwords (OTP), PIN 
@@ -46,6 +53,7 @@ demonstrate that stronger authentication significantly improves transaction secu
 reduces fraudulent activities. 
 
 3.Fraud by Transaction Channel and Device 
+
 The dashboard evaluates fraud across multiple transaction channels, including ATM, 
 Contactless, Online, In-App, and Point of Sale (POS), while also comparing different devices 
 such as Android phones, iPhones, Mac computers, ATM machines, and POS terminals. The 
@@ -56,6 +64,7 @@ consistently across all transaction channels instead of focusing solely on onlin
 transactions. 
 
 4.Foreign vs Domestic Fraud 
+
 One of the most significant findings is the comparison between domestic and foreign fraudulent 
 transactions. The dashboard shows that approximately 80% of fraud cases originate from 
 foreign transactions, while only about 20% occur domestically. This suggests that international 
@@ -64,6 +73,7 @@ measures such as transaction monitoring, customer verification, and risk scoring
 purchases. 
 
 5.AI Scam Fraud Analysis 
+
 The dashboard also categorizes fraud into AI-assisted scams and traditional fraud. The analysis 
 indicates that AI-related scams account for approximately 85% of all fraud cases, while 
 only about 15% are classified as non-AI scams. This trend reflects the increasing use of 
@@ -72,6 +82,7 @@ fraudulent transaction attempts. Financial institutions should invest in AI-powe
 detection systems capable of identifying evolving fraud patterns in real time. 
 
 6.Fraud Cases by Time of Day 
+
 Time-based analysis provides valuable operational insights. According to the dashboard, the 
 Early Morning period records the highest number of fraudulent transactions, while Morning, 
 Afternoon, and Evening experience significantly fewer fraud cases. This pattern suggests that 
@@ -80,36 +91,49 @@ are reduced. Increasing fraud surveillance during these high-risk hours can impr
 detection and reduce financial losses. 
 
 Business Insights 
+
 • First, although fraudulent transactions account for only a small percentage of all 
 transactions, they involve significantly higher transaction values than legitimate 
 purchases. This increases the financial impact of fraud despite its relatively low 
 frequency. 
+
 • Second, stronger authentication methods such as biometric verification and OTP 
 significantly reduce fraud risk compared to transactions without authentication. 
+
 • Third, foreign transactions represent the largest source of fraud, suggesting that 
 international payment activity should receive additional monitoring. 
+
 • Finally, the growing dominance of AI-assisted scams demonstrates the need for 
 financial institutions to adopt advanced technologies capable of detecting sophisticated 
 fraud techniques.
 
 Recommendations 
+
 Based on the analysis, the following recommendations are proposed: 
+
 • Implement mandatory Multi-Factor Authentication (MFA) for high-value and high-risk 
 transactions.  
+
 • Increase monitoring of international transactions using real-time fraud detection 
 systems.  
+
 • Deploy Artificial Intelligence and Machine Learning models to identify emerging fraud 
 patterns.  
+
 • Apply additional verification procedures for premium cardholders and higher-value 
 transactions.  
+
 • Increase fraud monitoring during early morning hours when fraudulent activity is 
 highest.  
+
 • Conduct regular customer awareness campaigns on phishing, identity theft, and AI
 assisted scams.  
+
 • Continuously review fraud trends by card type, authentication method, and transaction 
 channel to improve fraud prevention strategies.  
 
 Conclusion 
+
 The Credit Card Fraud Analysis Dashboard demonstrates how business intelligence tools such 
 as Microsoft Power BI can transform transactional data into actionable insights. Despite an 
 overall fraud rate of only 2%, fraudulent transactions result in substantial financial losses due 
