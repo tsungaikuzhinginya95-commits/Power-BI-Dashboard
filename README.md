@@ -6,8 +6,6 @@
 
 Introduction 
 
-https://github.com/tsungaikuzhinginya95-commits/Power-BI-Dashboard.git
-
 Credit card fraud remains one of the most significant challenges facing financial institutions 
 due to the increasing volume of digital transactions and the growing sophistication of 
 cybercriminals. Fraudulent activities not only result in financial losses but also reduce customer 
