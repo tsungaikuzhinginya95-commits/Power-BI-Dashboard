@@ -1,8 +1,8 @@
 # Power-BI-Dashboard
 
-Credit Card Fraud Detection Dashboard using Power BI
+#Credit Card Fraud Detection Dashboard using Power BI
 
-Credit Card Fraud Analysis Report 
+#Credit Card Fraud Analysis Report 
 
 Introduction 
 
